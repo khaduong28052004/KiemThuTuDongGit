@@ -9,7 +9,6 @@ import com.code.dao.MauDao;
 import com.code.dao.SanPhamChiTietDao;
 import com.code.dao.SanPhamDao;
 import com.code.dao.SizeDao;
-import com.code.form2.Jdialog__Bill_BanHang;
 import com.code.model.HoaDon;
 import com.code.model.LoaiSanPham;
 import com.code.model.Mau;
