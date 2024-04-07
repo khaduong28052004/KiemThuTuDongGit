@@ -44,8 +44,8 @@ public class Main extends javax.swing.JFrame {
     private Animator animator;
 
     public Main() {
-        new Chao(this, true).setVisible(true);
-        new DangNhap(this, true).setVisible(true);
+//        new Chao(this, true).setVisible(true);
+//        new DangNhap(this, true).setVisible(true);
         initComponents();
         init();
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-07T15:44:01 ICT" name="Default suite" finished-at="2024-04-07T15:44:30 ICT" duration-ms="28382">
+    <groups>
+    </groups>
+    <test started-at="2024-04-07T15:44:01 ICT" name="Default test" finished-at="2024-04-07T15:44:30 ICT" duration-ms="28382">
+      <class name="Test.khadvpc05684.KhachHangTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:Test.khadvpc05684.KhachHangTest@b6b1987]" started-at="2024-04-07T15:44:01 ICT" name="beforeSuite" finished-at="2024-04-07T15:44:01 ICT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Test.khadvpc05684.KhachHangTest@b6b1987]" started-at="2024-04-07T15:44:01 ICT" name="beforeTest" finished-at="2024-04-07T15:44:15 ICT" duration-ms="13250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Test.khadvpc05684.KhachHangTest@b6b1987]" started-at="2024-04-07T15:44:15 ICT" name="beforeClass" finished-at="2024-04-07T15:44:20 ICT" duration-ms="5011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Test.khadvpc05684.KhachHangTest@b6b1987]" started-at="2024-04-07T15:44:20 ICT" name="beforeMethod" finished-at="2024-04-07T15:44:30 ICT" duration-ms="10059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test()[pri:0, instance:Test.khadvpc05684.KhachHangTest@b6b1987]" started-at="2024-04-07T15:44:30 ICT" name="Test" finished-at="2024-04-07T15:44:30 ICT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- Test.khadvpc05684.KhachHangTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

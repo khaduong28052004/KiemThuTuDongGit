@@ -6,22 +6,3 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/thuvienpoi/commons-codec-1.11.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/thuvienpoi/commons-collections4-4.2.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/thuvienpoi/commons-compress-1.18.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/thuvienpoi/poi-4.0.1.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/thuvienpoi/poi-ooxml-4.0.1.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/thuvienpoi/poi-ooxml-schemas-4.0.1.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/thuvienpoi/xmlbeans-3.0.2.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/thuvienbill/itextpdf-5.3.4.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/libs/activation-0.X (1) (1).jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/libs/javax.mail-1.4.7.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/libs/jna-5.5.0.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/libs/jna-platform-5.5.0.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/libs/miglayout-4.0.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/libs/mssql-jdbc-12.2.0.jre11.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/libs/TimingFramework-0.55.jar"/>
-	<classpathentry kind="lib" path="D:/Spring_2024/block-2/KiemThuNangCao/Assignment/duongvankhapc05684_Assignment-2/KiemThuTuDongGit/DA1_Test1/src/libs/itext.jar/itext.jar"/>
-	<classpathentry kind="lib" path="/ui-dashboard-001/dist/lib/AbsoluteLayout.jar"/>
-	<classpathentry kind="output" path="build/classes"/>
-</classpath>
