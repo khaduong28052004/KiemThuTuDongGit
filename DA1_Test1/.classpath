@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/thuvienpoi/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="src/thuvienpoi/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="src/thuvienpoi/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="src/thuvienpoi/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="src/thuvienpoi/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="src/thuvienpoi/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="src/thuvienpoi/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="src/libs/activation-0.X (1) (1).jar"/>
+	<classpathentry kind="lib" path="src/libs/javax.mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="src/libs/jna-5.5.0.jar"/>
+	<classpathentry kind="lib" path="src/libs/jna-platform-5.5.0.jar"/>
+	<classpathentry kind="lib" path="src/libs/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="src/libs/mssql-jdbc-12.2.0.jre11.jar"/>
+	<classpathentry kind="lib" path="src/libs/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="src/thuvienbill/itextpdf-5.3.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
